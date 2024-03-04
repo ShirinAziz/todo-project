@@ -1,0 +1,14 @@
+body {
+  display: flex;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.mytodos {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  margin-top: 6px;
+}
